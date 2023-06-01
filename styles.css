@@ -103,6 +103,10 @@ form {
     margin: 20px;
 }
 
+.left {
+    position: relative;
+}
+
 .left, .right {
     display: flex;
     flex-direction: column;
